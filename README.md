@@ -1,7 +1,7 @@
 # Assembly Language Labs
 
 ## Goal of This Work:
-These projects (Labs) were developed for the **Computer Architecture** course and aim to build a **practical understanding of Assembly programming using the MIPS architecture** by applying core concepts such as:
+These labs were developed for the **Computer Architecture** course and aim to build a **practical understanding of Assembly programming using the MIPS architecture** by applying core concepts such as:
 - Executing low-level instructions
 - Working with registers and memory
 - Handling input and output
@@ -20,7 +20,6 @@ These labs were completed during university studies as part of hands-on learning
 - The execution method is clearly explained
 - Required tools and setup are listed
 - The content is organized with clear, readable headings
-- The explanation follows a simple, educational style without unnecessary technical complexity
 
 ---
 
@@ -32,7 +31,6 @@ This lab focuses on reading integer values from the user and processing them usi
 
 **Included Files:**
 - Assembly file for handling integer input
-- PDF file explaining the task and requirements
 
 ---
 
@@ -42,7 +40,6 @@ This lab focuses on understanding how to write and call procedures in MIPS, with
 
 **Included Files:**
 - Assembly files demonstrating procedure calls
-- PDF file explaining the lab objectives and tasks
 
 ---
 
@@ -52,7 +49,6 @@ This lab demonstrates how to control program flow using conditional instructions
 
 **Included Files:**
 - Assembly files for finding the largest and smallest values
-- PDF file explaining flow control logic
 
 ---
 
@@ -62,7 +58,6 @@ This lab focuses on using loop instructions to perform repeated operations.
 
 **Included Files:**
 - Multiple Assembly files demonstrating loop practices
-- PDF file explaining loops in MIPS
 
 ---
 
@@ -72,7 +67,6 @@ This lab focuses on working with arrays in memory, including accessing and proce
 
 **Included Files:**
 - Assembly file demonstrating array operations
-- PDF file explaining the concept and requirements
 
 ---
 
@@ -82,7 +76,6 @@ This lab focuses on working with floating-point numbers and performing arithmeti
 
 **Included Files:**
 - Multiple Assembly files for different floating-point tasks
-- PDF file explaining the required tasks
 
 ---
 
